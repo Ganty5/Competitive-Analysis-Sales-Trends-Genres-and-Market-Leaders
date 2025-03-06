@@ -12,7 +12,7 @@ It helps visualize industry trends and market performance with interactive chart
 
 ## 🛠️ Technologies Used
 - **Power BI** – Data visualization and dashboard creation.
-- **Excel / SQL** – Data processing (if applicable).
+- **Excel / SQL** – Data processing
 - **DAX / Power Query** – Data transformation.
 
 ## 📂 Project Structure
