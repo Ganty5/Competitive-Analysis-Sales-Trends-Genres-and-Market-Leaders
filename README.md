@@ -15,11 +15,6 @@ It helps visualize industry trends and market performance with interactive chart
 - **Excel / SQL** – Data processing
 - **DAX / Power Query** – Data transformation.
 
-## 📂 Project Structure
-- `/dashboard.pbix` – Power BI file containing the visualizations.
-- `/dataset` – Raw and processed data used for analysis.
-- `/images` – Screenshots of the dashboard.
-
 ## 🔥 Getting Started
 1. Download the **Power BI file (.pbix)** from the repository.
 2. Open it in **Microsoft Power BI Desktop**.
